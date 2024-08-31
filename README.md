@@ -18,4 +18,5 @@ Example of the grid environment:
 ```
 # Evaluation
 ![Total Reward over Episodes](https://github.com/user-attachments/assets/855561ec-8e3b-4265-b697-60d6badd5083)
+
 The graph plotting the total reward against the current episode shows a positive trend, proving that the Q learning algorithm was able to improve its performance over time by having more successful outcomes in fewer moves. To improve the model, more episodes could be carried out to see if this trend continues, and the alpha, gamma and epsilon parameters of the algorithm could be further experimented with to see if a quicker and greater improvement in performance could be achieved.
